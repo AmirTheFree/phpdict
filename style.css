@@ -1,7 +1,7 @@
 /* In the name of Allah */
 
 .alarm {
-    display: inline;
+    
 }
 
 body{
@@ -12,7 +12,19 @@ body{
     margin-bottom: 20px;
 }
 
+.upspace{
+    margin-top: 20px;
+}
+
 .info{
     font-weight: bolder;
     font-size: xx-large;
+}
+
+h1{
+    font-size: 5vw;
+}
+
+hr {
+    background-color: white;
 }
