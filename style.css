@@ -1,0 +1,18 @@
+/* In the name of Allah */
+
+.alarm {
+    display: inline;
+}
+
+body{
+    background-color: black;
+}
+
+.space{
+    margin-bottom: 20px;
+}
+
+.info{
+    font-weight: bolder;
+    font-size: xx-large;
+}

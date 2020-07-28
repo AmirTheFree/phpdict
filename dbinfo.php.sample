@@ -1,0 +1,9 @@
+<!-- In the name of Allah -->
+
+<?php
+    $dbhost = ;
+    $dbport = ;
+    $dbname = ;
+    $dbuser = ;
+    $dbpass = ;
+ ?>
