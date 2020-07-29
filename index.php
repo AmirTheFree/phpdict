@@ -19,8 +19,7 @@
                 echo "<td>".htmlentities($row['value_text'])."</td>";
                 echo "<td><a href=\"edit.php?id=".$row['id']."\"><button type=\"button\" class=\"btn btn-primary\">Edit</button></a></td>";
                 echo "</tr>";
-            }
-            mysqli_free_result($result); 
+            } 
         ?>
     </tbody>
 </table>

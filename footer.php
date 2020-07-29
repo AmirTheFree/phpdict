@@ -4,6 +4,9 @@
 <script src="lib/js/bootstrap.bundle.min.js"></script>
 </body>
 
-<?php mysqli_close($dbconnection); ?>
+<?php 
+    if(isset($result) && $result){mysqli_free_result($result);};
+    mysqli_close($dbconnection);
+?>
 
 </html>
