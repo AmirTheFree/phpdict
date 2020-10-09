@@ -23,5 +23,5 @@
         ?>
     </tbody>
 </table>
-<span class="text-white info"><a href="http://me.mwxg.ir/" class="text-warning">MWX</a> | 2020</span>
+<span class="text-white info"><a href="http://i.mwxg.ir/" class="text-warning">MWX</a> | 2020</span>
 <?php include('footer.php'); ?>
